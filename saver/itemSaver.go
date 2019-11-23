@@ -9,11 +9,11 @@ import (
 )
 
 //这里使用rpc来实现存储数据
-func ItemSaver() chan engine.Item {
+func ItemSaver(host string) chan engine.Item {
 	itemChan := make(chan engine.Item)
 
 	//这里调用rpc
-	client, err := rpc_support.NewClient(config.ITEM_SAVE_HOST)
+	client, err := rpc_support.NewClient(host)
 	if err != nil {
 		panic(fmt.Sprintf("connect rpc error:%v", err))
 	}
