@@ -1,11 +1,11 @@
 package main
 
 import (
-	"crawler_distributed/config"
-	"crawler_distributed/persist"
-	"crawler_distributed/rpc_support"
 	"flag"
 	"fmt"
+	"github.com/LiaoPuJian/crawler_distributed/config"
+	"github.com/LiaoPuJian/crawler_distributed/persist"
+	"github.com/LiaoPuJian/crawler_distributed/rpc_support"
 	"log"
 )
 

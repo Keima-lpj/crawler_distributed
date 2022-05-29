@@ -1,7 +1,7 @@
 package worker
 
 import (
-	"crawler/engine"
+	"github.com/LiaoPuJian/crawler/engine"
 )
 
 //这里是worker的RPC服务

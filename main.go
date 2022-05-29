@@ -1,14 +1,14 @@
 package main
 
 import (
-	"crawler/engine"
-	"crawler/zhenai/parser"
-	"crawler_distributed/config"
-	"crawler_distributed/rpc_support"
-	"crawler_distributed/saver"
-	"crawler_distributed/worker/client"
 	"flag"
 	"fmt"
+	"github.com/LiaoPuJian/crawler/engine"
+	"github.com/LiaoPuJian/crawler/zhenai/parser"
+	"github.com/LiaoPuJian/crawler_distributed/config"
+	"github.com/LiaoPuJian/crawler_distributed/rpc_support"
+	"github.com/LiaoPuJian/crawler_distributed/saver"
+	"github.com/LiaoPuJian/crawler_distributed/worker/client"
 	"log"
 	"net/rpc"
 	"strings"

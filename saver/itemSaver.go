@@ -1,10 +1,10 @@
 package saver
 
 import (
-	"crawler/engine"
-	"crawler_distributed/config"
-	"crawler_distributed/rpc_support"
 	"fmt"
+	"github.com/LiaoPuJian/crawler/engine"
+	"github.com/LiaoPuJian/crawler_distributed/config"
+	"github.com/LiaoPuJian/crawler_distributed/rpc_support"
 	"log"
 )
 

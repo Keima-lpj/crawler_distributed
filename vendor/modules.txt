@@ -1,0 +1,39 @@
+# github.com/LiaoPuJian/crawler v0.0.0-20220529034932-46d6f9c38bdd
+## explicit
+github.com/LiaoPuJian/crawler/engine
+github.com/LiaoPuJian/crawler/fetcher
+github.com/LiaoPuJian/crawler/model
+github.com/LiaoPuJian/crawler/zhenai/parser
+# github.com/mailru/easyjson v0.7.1
+github.com/mailru/easyjson
+github.com/mailru/easyjson/buffer
+github.com/mailru/easyjson/jlexer
+github.com/mailru/easyjson/jwriter
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# golang.org/x/net v0.0.0-20220526153639-5463443f8c37
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/html/charset
+# golang.org/x/text v0.3.7
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/htmlindex
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/transform
+# gopkg.in/olivere/elastic.v5 v5.0.86
+gopkg.in/olivere/elastic.v5
+gopkg.in/olivere/elastic.v5/config
+gopkg.in/olivere/elastic.v5/uritemplates

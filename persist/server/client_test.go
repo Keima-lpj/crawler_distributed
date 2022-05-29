@@ -1,8 +1,8 @@
 package main
 
 import (
-	"crawler/engine"
-	"crawler_distributed/rpc_support"
+	"github.com/LiaoPuJian/crawler/engine"
+	"github.com/LiaoPuJian/crawler_distributed/rpc_support"
 	"testing"
 	"time"
 )

@@ -1,7 +1,7 @@
 package persist
 
 import (
-	"crawler/engine"
+	"github.com/LiaoPuJian/crawler/engine"
 	"log"
 )
 
